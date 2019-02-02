@@ -8,9 +8,9 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='ndpatch',
+    name='rawimage',
     version='0.0.1',
-    description='Read and write RAW images (or data arrays).',
+    description='Read and write RAW images (or data arrays) without a headache.',
     long_description=long_description,
     long_description_content_type='text/x-rst',
     url='https://github.com/ashkarin/rawimage',
