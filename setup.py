@@ -9,7 +9,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='rawimage',
-    version='0.0.1',
+    version='0.0.2',
     description='Read and write RAW images (or data arrays) without a headache.',
     long_description=long_description,
     long_description_content_type='text/x-rst',
